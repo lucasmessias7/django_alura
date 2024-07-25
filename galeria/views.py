@@ -11,7 +11,9 @@ dados = {
 
     2: {'nome': 'Galáxia NGC 1079',
     'legenda': 'nasa.org / NASA / Hubble',
-    }
+    },
+
+
 }
 
 def index(request):
